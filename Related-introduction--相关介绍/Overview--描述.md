@@ -12,7 +12,7 @@ Airbnb的新用户可以在190多个国家的3.4万多个城市预订住宿。�
 
 在这场招聘竞争中，Airbnb将向你发出预测一个新用户会在哪个国家进行首次预订的挑战。凡是能够提供令人印象深刻的答案(和解释他们是如何到达那里的)的kaggler，将有机会获得采访并加入Airbnb的数据科学和分析团队。
 
-![](C:\Users\vich\Desktop\A.I\Airbnb New User Bookings\Img\airbnb_banner.png)
+![](https://github.com/vichry/Airbnb-New-User-Bookings/Img/airbnb_banner.png)
 
 ### 评估方法
 
