@@ -4,7 +4,7 @@
 
 目的地国有12种可能的结果，包含为:“US”、“FR”、“CA”、“GB”、“ES”、“IT”、“PT”、“NL”、“DE”、“AU”、“NDF”(没有找到目的地)和“other”。请注意，“NDF”与“other”不同，因为“other”表示有预订，但指的是未被列入名单的国家，而“NDF”表示没有预订。 
 
-![1538635917098](https://github.com/vichry/Airbnb-New-User-Bookings/blob/master/Data_Description_1.png) 
+![1538635917098](https://github.com/vichry/Airbnb-New-User-Bookings/blob/master/Data_ Description_1.png) 
 
 训练集和测试集按日期划分。在测试集中，你需要预测2014年7月1日之后所有新用户的首次活动(注意:这是在12月5日比赛重新开始时更新的)。在sessions数据集中，数据只能追溯到1/1/2014，而users数据集可以追溯到2010年。 
 
