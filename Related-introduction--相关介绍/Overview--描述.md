@@ -1,6 +1,6 @@
 # Airbnb 新用户的民宿预定结果
 
-![Airbnb](C:/Users/vich/Desktop/A.I/Airbnb New User Bookings/Img/Airbnb.jpg)
+![Airbnb](https://github.com/vichry/Airbnb-New-User-Bookings/Img/Airbnb.jpg)
 
 
 
