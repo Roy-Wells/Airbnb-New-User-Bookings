@@ -10,9 +10,9 @@
 
 ### 文件说明
 
-1.![Data Description_2](C:\Users\vich\Desktop\A.I\Airbnb New User Bookings\Img\Data Description_2.png)**train_users.csv** ——用户训练数据（标签大致同下）
+1.![Data Description_2](https://github.com/vichry/Airbnb-New-User-Bookings/Img/Data Description_2.png)**train_users.csv** ——用户训练数据（标签大致同下）
 
-2.![Data Description_2](C:\Users\vich\Desktop\A.I\Airbnb New User Bookings\Img\Data Description_2.png)**test_users.csv** ——用户测试数据
+2.![Data Description_2](https://github.com/vichry/Airbnb-New-User-Bookings/Img/Data Description_2.png)**test_users.csv** ——用户测试数据
 
 数据包含特征如下：
 
